@@ -45,7 +45,7 @@ The dataset used in this project is already uploaded in the repository, the data
 ## 📬 Contact
 
 * ✉️ [arjunsinghas1718@gmail.com](mailto:arjunsinghas1718@gmail.com)
-* 🔗 [Arjun Singh(https://www.linkedin.com/in/arjun-singh-b26570259/)
+* 🔗 [Arjun Singh](https://www.linkedin.com/in/arjun-singh-b26570259/)
 
 ---
 ## 📄 License
